@@ -1,5 +1,5 @@
 ---
-author: @lepisma
+authors: @lepisma
 groups: research, product
 teams: core-ml, research-ml
 level: L1, L2, L3

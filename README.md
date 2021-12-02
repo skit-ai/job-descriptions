@@ -11,7 +11,7 @@ would contain meta information like this:
 
 ```
 ---
-author: @lepisma
+authors: @lepisma
 groups: research, product
 teams: core-ml, research-ml
 level: L4
