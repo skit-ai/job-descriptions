@@ -1,5 +1,5 @@
 ---
-authors: @swaraj, @lepisma
+authors: @swaraj
 groups: research
 teams: research-ml
 level: NA
