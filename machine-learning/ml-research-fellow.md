@@ -3,6 +3,7 @@ authors: @swaraj, @lepisma
 groups: research
 teams: research-ml
 level: NA
+active: true
 ---
 
 # Machine Learning Research Fellow
