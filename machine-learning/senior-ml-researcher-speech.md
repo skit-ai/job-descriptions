@@ -26,7 +26,7 @@ Here are our areas of interest:
 + Lead enquiry in the research directions and come up with high impact research
   questions to work on.
 + Experiment with new ideas for research problems.
-+ Work on, and deliver research outputs and prototypes.
++ Work on, and deliver research outputs in top tier conferences and journals.
 + Study, implement and extend state of the art systems.
 + Take part in regular research reviews and discussions.
 
@@ -35,7 +35,7 @@ Here are our areas of interest:
 + Masters or PhD in a relevant field.
 + 3+ years of research experience in industry or academia.
 + Proven record of research work via publications in top tier Speech, NLP, or ML
-  conferences.
+  conferences and journals.
 + Ability to use tools from theoretical and practical aspects of computer
   science. This includes, but is not limited to, probability, statistics,
   learning theory, algorithm etc.
