@@ -19,12 +19,11 @@ experienced ML practitioners as part of the research team.
 You will be working in one of the following areas:
 
 + Paralinguistics
-+ Response production
-+ Speech recognition
++ Speech Recognition and Synthesis
 + Language and Dialog Understanding
-+ Conversations, behaviors, and personalities
++ Response Production
++ Conversations, Behaviors, and Personalities
 + Text and Audio mining
-+ Data quality and efficiency
 
 ### Responsibilities 
 
