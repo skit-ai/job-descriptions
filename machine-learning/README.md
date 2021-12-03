@@ -12,4 +12,4 @@ of levels:
 | L3    |                    |
 | L4    | Tech Lead          |
 
-High levels are discussed on a case by case basis at the moment.
+Higher levels are discussed on a case by case basis at the moment.
