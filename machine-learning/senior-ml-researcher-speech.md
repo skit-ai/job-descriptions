@@ -11,9 +11,9 @@ active: true
 We are looking for Senior ML Researchers in the field of Speech Processing to
 spearhead research work at Skit and produce valuable output for the field. Our
 vision is to become the world's leading speech tech company and we are well on
-track for that with strong footing in all the areas of speech research.
+track for that with strong footings in all areas of speech research.
 
-Our research team works on the following areas of Speech science:
+Here are our areas of interest:
 
 + Paralinguistics
 + Speech Recognition
