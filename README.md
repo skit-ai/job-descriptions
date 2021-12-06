@@ -71,3 +71,15 @@ active: false
 For publishing, share the markdown with recruitment team and let them post on
 portals. There are more things added to the description like privacy policy etc.
 Those are slapped on these items before sharing on job portals.
+
+You might also see `level` in the metadata. Based on our last thoughts on
+levels, we have the following rough scale:
+
+| Level | Remarks            |
+|-------|--------------------|
+| L1    | Mostly fresh folks |
+| L2    |                    |
+| L3    |                    |
+| L4    | Tech Lead          |
+
+Higher levels are discussed on a case by case basis at the moment.
