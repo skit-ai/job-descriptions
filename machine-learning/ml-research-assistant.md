@@ -3,7 +3,7 @@ authors: @swaraj
 groups: research
 teams: research-ml
 level: NA
-active: true
+active: false
 ---
 
 # Machine Learning Research Assistant, Winter 2021
