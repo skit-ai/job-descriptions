@@ -34,7 +34,6 @@ of our speech tech systems and the platform.
   of computer science. This includes, but is not limited to, probability,
   statistics, learning theory, algorithms, software architecture, programming
   languages, etc.
-
 + Masters or higher degree in Computer Sciences with specialization in Systems
   preferred.
 + Experience with production ML systems will be preferred.
