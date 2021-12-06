@@ -8,8 +8,8 @@ active: true
 
 # Staff Engineer
 
-We are looking for an Staff Engineer to envision, architect, and the development
-of our speech tech systems and the platform.
+We are looking for an Staff Engineer to envision, architect, and develop our
+speech tech systems and the platform.
 
 ### Responsibilities
 
