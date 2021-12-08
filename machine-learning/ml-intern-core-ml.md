@@ -24,7 +24,7 @@ Our team works closely with the research team, broadly on the topics such as Spo
   of computer science. This includes, but is not limited to, probability,
   statistics, learning theory, algorithms, software architecture, programming
   languages, etc.
-+ Having good prototyping skills and an ability to wrangle with unstructured data.
++ Have good prototyping skills and an ability to wrangle with unstructured data.
 + Git portfolios and blogs are helpful as they let us better evaluate your work.
 
 ## Our Team
