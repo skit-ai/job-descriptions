@@ -2,12 +2,12 @@
 authors: @sanchit
 groups: product
 teams: core-ml
-level: NA
+level: ML Intern, Core ML
 active: true
 ---
-# Machine Learning Research Intern
+# Machine Learning Intern
 
-We are looking for an ML Research intern for a duration of 5 months. As an intern, you will be working closely with the core-ml team. You will be involved in owning various product initiatives, creating protypes and delving into research papers. 
+We are looking for an ML Research intern for a duration of 5 months to join immediately (duration and date of joining are flexible). As an intern, you will be working closely with the product and research team. You will be involved in owning various product initiatives, creating protypes and delving into research papers. 
 Our team works closely with the research team, broadly on the topics such as Spoken Language Understanding, Speech Recognition, Paralinguistics and Response Production.
 
 ### Responsibilities
@@ -16,12 +16,6 @@ Our team works closely with the research team, broadly on the topics such as Spo
 + Perform experiments and statistical analyses to draw conclusions and take
   modeling decisions.
 + Study, implement and extend state of the art systems.
-+ Write research outcomes and publish documentations
-+ Take part in regular research reviews and discussions.
-+ Build, maintain and extend our open source solutions in the domain.
-+ Write well-crafted programs at all levels of the system. This includes the
-  data pipelines, experiment prototypes, fast and scalable deployment models,
-  and evaluation, visualization and monitoring systems.
  
 ### Requirements
 
@@ -30,9 +24,7 @@ Our team works closely with the research team, broadly on the topics such as Spo
   of computer science. This includes, but is not limited to, probability,
   statistics, learning theory, algorithms, software architecture, programming
   languages, etc.
-+ Good programming skills and ability to work with programs at all levels of a
-  finished Machine Learning product. We prefer language agnosticism since that
-  exemplifies this point.
++ Having good prototyping skills and an ability to wrangle with unstructured data.
 + Git portfolios and blogs are helpful as they let us better evaluate your work.
 
 ## Our Team
