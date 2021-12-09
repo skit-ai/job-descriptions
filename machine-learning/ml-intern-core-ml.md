@@ -2,12 +2,12 @@
 authors: @sanchit
 groups: product
 teams: core-ml
-level: ML Intern, Core ML
+level: NA
 active: true
 ---
-# Machine Learning Intern
+# Machine Learning Intern, Core ML
 
-We are looking for an ML Research intern for a duration of 5 months to join immediately (duration and date of joining are flexible). As an intern, you will be working closely with the product and research team. You will be involved in owning various product initiatives, creating protypes and delving into research papers. 
+We are looking for an ML Research intern for a duration of 2 to 5 months to join immediately (duration and date of joining are flexible). As an intern, you will be working closely with the product and research team. You will be involved in owning various product initiatives, creating protypes and delving into research papers. 
 Our team works closely with the research team, broadly on the topics such as Spoken Language Understanding, Speech Recognition, Paralinguistics and Response Production.
 
 ### Responsibilities
