@@ -60,11 +60,15 @@ would contain meta information like this:
 
 ```
 ---
-authors: @lepisma
-groups: research, product
-teams: core-ml, research-ml
-level: L4
-active: false
+authors: @lepisma                # Authors who contributed in writing JD
+groups: research, product        # Business groups where this person will be
+                                 # involved in
+teams: core-ml, research-ml      # Team names where this person will be present
+level: L4                        # Seniority level
+active: false                    # Whether we are currently hiring for this
+                                 # role
+draft: true                      # Whether this JD is approved and can be shared.
+                                 # This overrides the `active` flag. Optional.
 ---
 ```
 
@@ -76,7 +80,7 @@ You might also see `level` in the metadata. Based on our last thoughts on
 levels, we have the following rough scale:
 
 | Level | Remarks            |
-|-------|--------------------|
+|-------+--------------------|
 | L1    | Mostly fresh folks |
 | L2    |                    |
 | L3    |                    |
