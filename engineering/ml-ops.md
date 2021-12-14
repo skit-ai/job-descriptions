@@ -29,7 +29,7 @@ voice AI.
 
 ### Requirements
 
-- More than x years of experience.
+- 2+ years of experience.
 - Experience working with Python or Golang.
 - Prior experience working with ML pipelining/orchestration tools like MLFlow,
   Airflow, Kubeflow, Argo etc. to build and deploy ML pipelines.
