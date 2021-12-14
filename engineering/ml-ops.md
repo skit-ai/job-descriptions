@@ -4,6 +4,7 @@ groups: product
 teams: platform
 level: [L3, L4]
 active: true
+draft: true
 ---
 
 # MLOps Engineer
