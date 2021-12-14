@@ -60,7 +60,7 @@ would contain meta information like this:
 
 ```
 ---
-authors: lepisma                # Authors who contributed in writing JD
+authors: lepisma                 # Authors who contributed in writing JD
 groups: [research, product]      # Business groups where this person will be
                                  # involved in
 teams: [core-ml, research-ml]    # Team names where this person will be present
