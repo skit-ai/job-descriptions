@@ -1,8 +1,8 @@
 ---
-authors: @swaraj
+authors: swaraj
 groups: research
 teams: research-ml
-level: NA
+level: null
 active: false
 ---
 

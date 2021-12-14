@@ -1,8 +1,8 @@
 ---
-authors: @sanchit
+authors: sanchit
 groups: product
 teams: core-ml
-level: NA
+level: null
 active: true
 ---
 # Machine Learning Intern, Core ML

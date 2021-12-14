@@ -1,5 +1,5 @@
 ---
-authors: @lepisma
+authors: lepisma
 groups: product
 teams: core-ml
 level: L4

@@ -60,10 +60,10 @@ would contain meta information like this:
 
 ```
 ---
-authors: @lepisma                # Authors who contributed in writing JD
-groups: research, product        # Business groups where this person will be
+authors: lepisma                # Authors who contributed in writing JD
+groups: [research, product]      # Business groups where this person will be
                                  # involved in
-teams: core-ml, research-ml      # Team names where this person will be present
+teams: [core-ml, research-ml]    # Team names where this person will be present
 level: L4                        # Seniority level
 active: false                    # Whether we are currently hiring for this
                                  # role

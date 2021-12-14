@@ -1,7 +1,7 @@
 ---
-authors: @lepisma
+authors: lepisma
 groups: product
-teams: runtime, platform
+teams: [runtime, platform]
 level: L4+
 active: true
 ---

@@ -1,8 +1,8 @@
 ---
-authors: @lepisma
+authors: lepisma
 groups: research
 teams: research-ml
-level: L1, L2, L3
+level: [L1, L2, L3]
 active: true
 ---
 

@@ -1,7 +1,7 @@
 ---
-authors: @lepisma
-groups: product, research
-teams: core-ml, research-ml
+authors: lepisma
+groups: [product, research]
+teams: [core-ml, research-ml]
 level: L4
 active: true
 ---
