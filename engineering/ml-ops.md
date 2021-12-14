@@ -1,7 +1,7 @@
 ---
 authors: vipul-sharma20
 groups: product
-teams: platform-ml
+teams: platform
 level: [L3, L4]
 active: true
 ---
