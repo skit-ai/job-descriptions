@@ -1,8 +1,8 @@
 ---
-authors: @ltbringer
+authors: ltbringer
 groups: product
 teams: platform-ml
-level: L1 L2 L3
+level: [L1, L2, L3]
 active: true
 ---
 
