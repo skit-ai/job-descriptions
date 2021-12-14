@@ -10,13 +10,13 @@ active: true
 
 We are looking for an engineer with a track record of shipping exceptional web experiences. Introduce yourself to us with your serious projects that demonstrate your understanding of the web, simplification of complex problems within the implementation and the understanding of the various needs of your target user personas. Proficiency is expected in programming both the frontend and backend applications. This role covers creation of new applications along with the maintenance of existing tools. We use React but expect solid understanding of vanilla javascript. Our backend applications require familiarity with python as well.
 
-## Responsibilities
+### Responsibilities
 
 1. Design and build high-performance applications for datasets, annotation and model evaluation.
 2. Collaborate with ML, and Platform ML teams to identify and improve our data abstractions.
 3. Improving the development practices through research, automation, documentation and testing.
 
-## Requirements
+### Requirements
 
 1. Have a portfolio of beautiful, functional and efficient applications.
 2. Experience with alleviating performance bottlenecks.
