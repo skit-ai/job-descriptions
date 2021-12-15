@@ -4,6 +4,7 @@ groups: product
 teams: platform-ml
 level: [L1, L2, L3]
 active: true
+draft: true
 ---
 
 # Fullstack Engineer
@@ -20,7 +21,7 @@ We are looking for an engineer with a track record of shipping exceptional web e
 
 1. Have a portfolio of beautiful, functional and efficient applications.
 2. Experience with alleviating performance bottlenecks.
-3. 1-2 years of software development experience.
+3. 2+ years of software development experience.
 4. Ability to effectively communicate evaluated by quality of:
     - Documentation
     - API schema
