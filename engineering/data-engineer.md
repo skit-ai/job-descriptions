@@ -23,8 +23,8 @@ consumed.
   [datasheets](https://www.microsoft.com/en-us/research/project/datasheets-for-datasets/),
   data schema, and general specifications of datasets for public or private
   releases.
-+ Ensure review processes and quality assurance for internal data and metadata
-  marketplaces.
++ Ensure review processes for quality, fairness, and bias considerations, for
+  internal data and metadata marketplaces.
 + Work with internal speech and text data collection platform to deliver high
   quality datasets for downstream modelling tasks.
 + Gather and process textual and audio data from multiple sources and languages.
