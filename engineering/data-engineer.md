@@ -4,7 +4,7 @@ groups: product
 teams: platform
 level: [L1, L2]
 active: true
-draft: true
+draft: false
 ---
 
 # Data Engineer
