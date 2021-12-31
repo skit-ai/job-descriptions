@@ -51,7 +51,7 @@ deliver bespoke voicebots to our enterprise clients.
 * Git portfolios and blogs are helpful as they let us better evaluate your work.
 * Experience working with Docker and Kubernetes.
 
-#### Tech Stack
+### Tech Stack
 
 This is the majority of the tech stack that we're using internally. We do not expect you to work on all of it.
 It's been listed to give some clarity to the reader of this JD.
