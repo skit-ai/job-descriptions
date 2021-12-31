@@ -51,6 +51,28 @@ deliver bespoke voicebots to our enterprise clients.
 * Git portfolios and blogs are helpful as they let us better evaluate your work.
 * Experience working with Docker and Kubernetes.
 
+#### Tech Stack
+
+Languages:
+* Python
+* Golang
+
+Frameworks:
+* Python
+  * Django Rest Framework
+  * Celery
+  * Pandas
+* Golang
+  * Gorm
+  * GorillaMux
+
+Tools/Orchestration/VCS:
+* Docker
+* Kubernetes
+* Argo Workflows
+* Gitlab
+* Github
+
 ## Our Team
 
 Our team of engineers and researchers work on building our voice bot, VIVA, and
