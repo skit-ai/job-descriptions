@@ -25,7 +25,7 @@ enterprise telephony systems.
 - 2+ years of experience.
 - Proficient with scripting languages like Bash script, Python etc.
 - Experience working with telephony platforms like Asterisk, Avaya, Genesys etc.
-- Knowledge of VoIP systems and IP Protocols (SIP, RTP, RTCP, SRTP, H.323 etc.)
+- Knowledge of VoIP systems and IP Protocols (MRCP, SIP, RTP, RTCP, SRTP, H.323 etc.)
 - Experience with Linux/Unix administration.
 - Familiarity with various VoIP call testing and monitoring tools.
 
