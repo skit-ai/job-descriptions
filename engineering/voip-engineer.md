@@ -17,8 +17,8 @@ enterprise telephony systems.
 - Diagnose, troubleshoot, resolve quality issues related to VoIP and telephony
   platforms and applications.
 - Deploy and maintain complex voice infrastructure components.
-- Collaborate with the team on design and architecture of telephony services
-  and optimizing quality.
+- Collaborate with the team to contribute on design and architecture of
+  telephony infrastructure, services and optimizing quality.
 
 ## Requirements
 
