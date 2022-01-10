@@ -1,3 +1,12 @@
+---
+authors: misterEggroll
+groups: engineering
+teams: solutions
+level: [L1,L2,L3]
+active: true
+draft: false
+---
+
 # Software Engineer(Solutions)@Skit
 
 ## 👋🏻 Hi there!
