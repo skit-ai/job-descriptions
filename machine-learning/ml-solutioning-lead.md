@@ -3,38 +3,29 @@
 
 ### About us
 
-Vernacular.ai is a Series A funded startup, we are an AI-First SaaS business that is driven with a mission to become 
-the leading voice automation/AI platform in the world. Our team has extensive experience in the AI/automation space 
-and through constant reiteration and hard work, we have successfully built our state of the art AI-based voice 
-automation platform - VIVA. Currently, we have deployed our product in enterprise contact centers and are keen to 
-deliver high value. We are a young, entrepreneurial, energetic team that's looking to disrupt the voice domain.
+Skit (previously known as Vernacular.ai) is a Series B AI-first SaaS voice automation company. Our suite of speech and language solutions enable enterprises to automate their contact centre operations. With over 10 million hours of training data, our product - Vernacular Intelligent Voice Assistant (VIVA) can currently respond in 16+ languages, covering over 160+ dialects and replicating human-like conversations.
 
-We are looking for ML Solutioning Lead to work and oversee works on developing and deploying our speech tech solutions. 
-This role needs a mix of expertise in machine learning, software engineering and understanding of product development 
-and delivery process.
+We currently serve a variety of enterprise clients across diverse sectors such as BFSI, F&B, Hospitality, Consumer Electronics and Travel & Tourism, including prominent clients like Axis Bank, Hathway, Porter and Barbeque Nation. We’ve been featured as one of the top-notch start-ups in the Cisco Launchpad’s Cohort 6 and is a part of the World Economic Forum’s Global Innovators Community.
 
-### Responsibilities
+We are looking for an ML Solutioning Lead to work and oversee works on developing and deploying our speech tech solutions. This role needs a mix of expertise in machine learning, software engineering and understanding of product development and delivery process.
 
-- Help define quality, performance, robustness, and reliability of our deliveries by collaborating with 
-  delivery stakeholders.
-- Own the development and production lifecycle of deliveries from the ML perspective.
-- Set up and maintain processes around developing, testing, monitoring, and reporting for our ML solutions.
-- Manage solution team members and help them deliver value for the client.
 
-### Requirements
-- 2+ years of industrial experience.
-- 1+ years of experience in Machine Learning or Data Science
+### Job
+
+- Own and drive solution strategy for machine-learning based development projects
+- Collaborate with product managers and engineering teams to design and deliver high quality voice-based solutions.
+- Lead a team of engineers and own the development and production lifecycle of deliveries from the ML perspective.
+- Define and drive quality, performance, robustness, and reliability of our deliveries by collaborating with delivery stakeholders.
+- Set up and maintain processes around developing, testing, monitoring, and reporting for ML solutions.
+- Drive and organize research, discussion and reviews towards continuous improvements of our models and capabilities.
+
+### Experience
+- Knowledge of and ability to use tools from theoretical and practical aspects of computer science. This includes, but is not limited to, probability, statistics, learning theory, algorithms, software architecture, programming languages, etc.
 - Proven ability of managing people and processes to deliver data driven solutions to clients.
-- Good understanding of various applied Machine Learning concepts and problems.
-- Previous experience with working in Conversational AI is a plus.
+- Good understanding of various applied Machine Learning concepts and problems; previous experience with working in Conversational AI or NLP projects is a plus.
 
-## Our Team
+### Qualifications
 
-Our team of engineers and researchers work on building our voice bot, VIVA, and
-an advanced speech conversational platform for large scale enterprises. VIVA
-goes beyond run-of-the-mill voice bots by exploiting features and behaviors that
-come from a deep understanding of shades of human-machine speech dialogs.
-
-We believe in open innovation and you can check out our work on github [here](https://github.com/skit-ai), and
-our tech website [here](https://tech.skit.ai/). 
-You can also follow our [tech handle on twitter](https://twitter.com/SkitTech/) to know what we are up to these days.
+- 4+ years of industrial experience
+- 2+ years of experience in Data Science or Machine learning (NLP/Speech would be preferable)
+- Graduate degree in computer science or related field; MBA would be an advantage
