@@ -18,7 +18,7 @@ such as BFSI, F&B, Hospitality, Consumer Electronics and Travel & Tourism,
 including prominent clients like Axis Bank, Hathway, Porter and Barbeque Nation.
 It has been featured as one of the top-notch start-ups in the Cisco Launchpad’s
 Cohort 6 and is a part of the World Economic Forum’s Global Innovators
-Community. It has has also been listed in Forbes 30 Under 30 Asia start-ups 2021
+Community. It has also been listed in Forbes 30 Under 30 Asia start-ups 2021
 for its remarkable industry innovation. We are growing really fast and on track
 to become _the_ Voice AI powerhouse.
 
