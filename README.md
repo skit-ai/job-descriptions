@@ -80,10 +80,13 @@ You might also see `level` in the metadata. Based on our last thoughts on
 levels, we have the following rough scale:
 
 | Level | Remarks            |
-|-------|-------------------- |
+|-------|--------------------|
 | L1    | Mostly fresh folks |
 | L2    |                    |
 | L3    |                    |
-| L4    | Tech Lead          |
+| L4    | ~Tech Lead / ~EM   |
+| L5    | Director           |
+| L6    | VP                 |
+| L7    | CXO                |
 
 Higher levels are discussed on a case by case basis at the moment.
