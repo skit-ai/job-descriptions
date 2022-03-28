@@ -97,7 +97,7 @@ Work you will be doing:
 
 **Mandatory Requirements:**
 
-- Professional experience of at least 2 years.
+- Professional experience of at least 1 year.
 - Has experience with integrating or building HTTP APIs
 - Has hands-on experience of working with Python
 - Good communicator
