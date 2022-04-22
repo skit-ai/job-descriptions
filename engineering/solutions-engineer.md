@@ -90,6 +90,7 @@ There are five working groups in the organization, (i) Business (ii) Research (i
 Work you will be doing:
 
 - You will be building bespoke voicebots 🤖  for enterprise clients using internal tools.
+- You will be building ML models on our core ML platform; and monitor, diagnose and maintain active deployments.
 - You're expected to help build the Solutions stack whose goal it is to reduce the amount of effort put into building our voicebots. 🚀
 - You will be involved in analyzing client calls 🔍 where you're expected to use either data pipelines or SQL to get insights into caller behavior.
 
@@ -102,9 +103,11 @@ Work you will be doing:
 - Has hands-on experience of working with Python
 - Good communicator
 
-*Optional Requirements:*
+*Preferred Requirements:*
 
 - Has experience working in any of *Django Rest Framework, Redis, Celery*
+- Good understanding of various applied ML concepts and problems
+- Has python programming experience on machine learning based projects
 
 ### 🏗️ **Technical Stack**
 
