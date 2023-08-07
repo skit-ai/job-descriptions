@@ -3,7 +3,7 @@ authors: swaraj
 groups: research
 teams: research-ml
 level: null
-active: true
+active: false
 ---
 
 # Machine Learning Research Fellow

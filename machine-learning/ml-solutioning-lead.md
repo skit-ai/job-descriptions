@@ -3,7 +3,7 @@ authors: lohith
 groups: solutions
 teams: solutions-ml
 level: [L3, L4]
-active: true
+active: false
 ---
 
 # Machine Learning Solutioning Lead

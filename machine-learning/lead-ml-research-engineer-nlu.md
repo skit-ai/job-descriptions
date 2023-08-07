@@ -3,7 +3,7 @@ authors: lepisma
 groups: [product, research]
 teams: [core-ml, research-ml]
 level: [L3, L4]
-active: true
+active: false
 ---
 
 # Lead Machine Learning Research Engineer, Natural Language Understanding

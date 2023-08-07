@@ -3,7 +3,7 @@ authors: lepisma
 groups: product
 teams: core-ml
 level: L4
-active: true
+active: false
 ---
 
 # Machine Learning Lead, Core Product

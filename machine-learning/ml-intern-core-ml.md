@@ -3,7 +3,7 @@ authors: sanchit
 groups: product
 teams: core-ml
 level: null
-active: true
+active: false
 ---
 
 # Machine Learning Intern, Core ML

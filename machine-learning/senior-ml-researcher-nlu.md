@@ -3,7 +3,7 @@ authors: lepisma
 groups: research
 teams: research-ml
 level: [L3, L4]
-active: true
+active: false
 ---
 
 # Senior Machine Learning Researcher, Natural Language Understanding
