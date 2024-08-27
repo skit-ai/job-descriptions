@@ -64,5 +64,5 @@ unparalleled expertise. Skit.ai is headquartered in New York City, NY, and Benga
 - Understanding of Computer Science fundamentals, using them to effectively design and write code in python.
 - Hands-on experience developing microservices/projects in Python is preferrable.
 - Hands-on experience working with RDBMS like PostgreSQL.
-- Experience working with gRPC is a plus.
 - Experience working with container platforms like Docker, Kubernetes is a plus.
+- Experience with AWS or any comparable cloud technology is a plus.
