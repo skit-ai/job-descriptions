@@ -48,7 +48,7 @@ unparalleled expertise. Skit.ai is headquartered in New York City, NY, and Benga
 
 ### Experience
 
-- Professional experience of at 0-2 years.
+- Professional experience of 0-2 years.
 - Has experience with integrating or building HTTP APIs
 - Has hands-on experience of working with Python
 - Good communicator
